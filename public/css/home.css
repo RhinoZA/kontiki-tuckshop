@@ -1,0 +1,18 @@
+button.menu {
+    background:#DDDDDD;
+    border-radius:10px;
+    border-width:1px;
+    border-color:#333333;
+    width:100px;
+    height:100px;
+    padding:10px;
+    margin:20px;
+    color:#000000;
+    vertical-align: top;
+    float: left;
+}
+
+#content {
+    display: table;
+    margin: 0 auto;
+}

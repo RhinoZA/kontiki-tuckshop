@@ -1,0 +1,52 @@
+div.order {
+    font-size:1em;
+    margin: 20px;
+    float: left;
+    background-color: #666666;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div.order_number {
+    font-size:1em;
+    margin-left: 20px;
+}
+
+span.order_number {
+     font-size:1.5em;
+}
+
+button.order_item {
+    font-size:1.2em;
+    background:#DDDDDD;
+    border-radius:10px;
+    border-width:1px;
+    border-color:#333333;
+    padding:10px;
+    margin:10px;
+    color:#000000;
+    vertical-align: top;
+    margin-left: 40px;
+    display: block;
+}
+
+button.busy {
+    background-color: #009E5A;
+}
+
+button.completed {
+    background-color: #444444;
+}
+
+h1 {
+    text-align: center;
+}
+
+#content {
+    display: table;
+    margin: 0 auto;
+}
+
+div.order_items {
+    display: block;
+}
